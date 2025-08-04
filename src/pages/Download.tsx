@@ -21,7 +21,7 @@ const DownloadPage = () => {
   const downloadMirrors = [
     {
       name: 'Google Drive (Primary)',
-      url: 'https://drive.google.com/file/d/19lX3kJUPJiQsRxd3hsUIl9X11TwM1hpz/view?usp=sharing',
+      url: 'https://drive.google.com/file/d/1_qA5yiDP0l0nYQRA6qlPxBuAMD7rl0rL/view?usp=sharing',
       location: 'Google Drive',
       speed: 'Fast',
       recommended: true
