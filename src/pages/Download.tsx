@@ -144,7 +144,7 @@ const DownloadPage = () => {
 
             {/* Primary Download Button */}
             <motion.a
-              href="https://drive.google.com/file/d/19lX3kJUPJiQsRxd3hsUIl9X11TwM1hpz/view?usp=sharing"
+              href="https://drive.google.com/file/d/1_qA5yiDP0l0nYQRA6qlPxBuAMD7rl0rL/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
